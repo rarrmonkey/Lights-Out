@@ -26,6 +26,7 @@ Author Notes
  from another source because I don't know of a CircuitPython library for this.
  CircuitPlayground code might work but would need reformatting for the 
  NeoTrellis M4 Express.
+ Formatted for viewing with 2 wide Tabs
 
 """
 
